@@ -9,12 +9,22 @@ Simple tool to generate HTML newsletters from JSON data.
 1. **Install Node.js** (if not already installed)
    - Download from [nodejs.org](https://nodejs.org/)
 
-2. **Install dependencies**
+2. **Open a terminal window in a new directory**
+   - Open a directory and type 'cmd' into the address bar to open a new terminal window.
+
+3. **Clone the repo**
+   - type
+   ```bash
+   git clone https://github.com/torstenchristensen/biotechsnap-issue-generation
+   ```
+   and press enter
+
+4. **Install dependencies**
    ```bash
    npm install
    ```
 
-3. **You're ready!**
+5. **You're ready!**
 
 ---
 
