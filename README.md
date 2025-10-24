@@ -23,10 +23,11 @@ Simple tool to generate HTML newsletters from JSON data.
 ### Step 1: Prepare Your Content
 
 1. Download the word doc and images supplied by Joachim.
+2. Create a new Biotech Snap newsletter issue in mgmt.
 3. Upload the images, taking note of the image urls.
-2. Upload the Word doc and newsletter-template.json files to an LLM (ChatGPT, Claude, etc.)
-3. Ask the LLM: "Convert this to match the newsletter-template.json format"
-4. Copy the JSON output
+4. Upload the Word doc and newsletter-template.json files to an LLM (ChatGPT, Claude, etc.)
+5. Ask the LLM: "Convert this to match the newsletter-template.json format"
+6. Copy the JSON output
 
 ### Step 2: Add JSON to Project
 
@@ -43,10 +44,9 @@ Simple tool to generate HTML newsletters from JSON data.
    - ✓ Save it to `editions/` folder with timestamp
    
 ### Step 4: Use the Content
-1. Create the edition in mgmt
-2. Paste the output HTMl into a WYSIWYG sections
-3. Paste in the image urls you saved earlier
-4. Check the content against the original word doc
+1. Paste the output HTMl into a WYSIWYG section
+2. Paste in the image urls you saved earlier
+3. Check the content against the original word doc
 
 That's it! 🎉
 
