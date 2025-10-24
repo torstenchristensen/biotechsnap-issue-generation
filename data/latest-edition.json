@@ -1,0 +1,191 @@
+{
+  "newsletter": {
+    "metadata": {
+      "subject_line": "🫰 Not in the cell",
+      "preview_text": "In today's newsletter: Tubulis' 59% response rate & Summit's doubts"
+    },
+    "sponsor": {
+      "enabled": true,
+      "banner": {
+        "image_url": "https://example.com/bioeurope-banner.png",
+        "image_alt": "BIO-Europe 2025 Banner",
+        "sponsor_url": "https://informaconnect.com/bioeurope/?utm_source=biotechsnap.com&utm_medium=email-azo&utm_campaign=EBEU2025BSAEB&utm_term=email-azo&utm_content=EBEU2025BSAEB&tracker_id=EBEU2025BSAEB"
+      },
+      "banner_text": "👉 Register today to save up to €300 for BIO-Europe 2025!",
+      "section": {
+        "sponsor_name": "BIO-Europe 2025",
+        "headline": "⏰ Less Than 2 Weeks Until BIO-Europe 2025!",
+        "image_url": "https://example.com/bioeurope-content.png",
+        "message": "Time is running out! Now's your last chance to secure your spot at Europe's biggest life science partnering event. <strong>Connect with 5,700+ attendees</strong>, discover cutting-edge innovations, and forge partnerships that will define the future of biotech.<br><br>Don't wait---register today to avoid onsite fees and <strong>save up to €300</strong>!",
+        "button_text": "Register today!",
+        "sponsor_url": "https://informaconnect.com/bioeurope/?utm_source=biotechsnap.com&utm_medium=email-azo&utm_campaign=EBEU2025BSAEB&utm_term=email-azo&utm_content=EBEU2025BSAEB&tracker_id=EBEU2025BSAEB"
+      }
+    },
+    "intro": {
+      "message": "<strong>Good morning!</strong> We've got a flood of cancer trial data coming out of ESMO again today, so here's something different to start: Cambridge-based <a href=\"https://femtechinsider.com/cyclana-bio-raises-5m-to-reverse-endometriosis-through-extracellular-matrix-targeting/\" style=\"color: #007bff; text-decoration: underline;\">Cyclana Bio just raised £5 million to tackle endometriosis</a> by targeting the extracellular matrix, the \"scaffolding\" that supports and signals to cells. Co-founded by Dr. Léa Wenger, who was diagnosed with the disease during her PhD, the startup flips traditional drug development by focusing not on what happens inside cells, but on how their environment drives disease. With this new approach, Cyclana aims to reverse tissue scarring involved in endometriosis and potentially expand their technology to other chronic inflammatory conditions.<br><br>Enjoy today's read!<br><br>---Joachim E.<br><br><em>Don't keep this newsletter a secret: Forward the Snap to a friend!</em><br><br><em>Was this email forwarded to you?</em> <a href=\"https://www.biotechsnap.com/subscribe\" style=\"color: #007bff; text-decoration: underline;\">Sign up here.</a>"
+    },
+    "stories": [
+      {
+        "section_header": "SNAPSHOT",
+        "large_headline": true,
+        "headline": "Tubulis lands €308 million in record Series C to lead next-gen cancer drug race",
+        "image_url": "https://example.com/tubulis-story.png",
+        "image_alt": "Tubulis cancer drug research illustration",
+        "lead_paragraph": "<strong>Tubulis'</strong> next-gen antibody-drug conjugate (TUB-040) <a href=\"https://www.fiercebiotech.com/biotech/esmo-tubulis-next-gen-adc-posts-59-response-rate-justifying-investor-interest\" style=\"color: #007bff; text-decoration: underline;\">achieved a 59% overall response rate in early human trials for platinum-resistant ovarian and non-small cell lung cancers</a>.",
+        "subsections": [
+          {
+            "title": "Why it matters",
+            "content": "These promising results validate Tubulis' ADC platform and justify the recent $361M funding round, positioning the biotech for expanded trials and potential Big Pharma partnerships.",
+            "highlight": true
+          },
+          {
+            "title": "Backstory",
+            "content": "Tubulis is leveraging its Tubutecan platform to design ADCs that reduce toxicity by minimizing premature payload release. TUB-040 targets the NaPi2b protein and is being tested in a phase 1/2a trial. Patients had received a median of four prior therapies, underscoring the treatment-resistant nature of the population."
+          },
+          {
+            "title": "Zoom in",
+            "content": "Only 2 patients discontinued their participation in the trial due to side effects. This also comes along with the positive news that 91% disease control rate was observed across all dose cohorts with a maximum tolerated dose."
+          },
+          {
+            "title": "Big picture",
+            "content": "With a strong therapeutic window, early onset of activity, and manageable side effects, TUB-040 could reshape treatment options for hard-to-treat cancers. Tubulis is now exploring earlier-line use and other tumor types, moves that could significantly expand its clinical footprint and commercial appeal."
+          }
+        ]
+      },
+      {
+        "section_header": "SNAP AGAIN",
+        "large_headline": true,
+        "headline": "Summit's lung cancer drug shows promise, but market skepticism lingers",
+        "image_url": "https://example.com/summit-story.png",
+        "image_alt": "Summit Therapeutics lung cancer research",
+        "lead_paragraph": "<strong>Summit Therapeutics and Akeso's</strong> dual-acting drug <a href=\"https://www.biopharmadive.com/news/summit-akeso-ivonescimab-harmoni6-lung-cancer-trial/803193/\" style=\"color: #007bff; text-decoration: underline;\">ivonescimab, combined with chemo, cut lung cancer progression risk by 40% versus a Tevimbra-chemo combo in a Chinese Phase 3 trial.</a>",
+        "subsections": [
+          {
+            "title": "Why it matters",
+            "content": "The results boost hopes that ivonescimab could outperform Keytruda in the global HARMONi-3 trial, potentially reshaping first-line treatment for advanced lung cancer.",
+            "highlight": true
+          },
+          {
+            "title": "Backstory",
+            "content": "Ivonescimab targets both PD-1 (immune checkpoint) and VEGF (tumor blood supply). Early excitement came from 2024 data suggesting superiority over Keytruda. Since then, its clinical edge has narrowed, prompting mixed investor reactions."
+          },
+          {
+            "title": "Zoom in",
+            "content": "The treatment was effective with median progression-free survival being 11 months (ivonescimab) vs. 7 months (Tevimbra). Side effects were similar overall but included more VEGF-related issues with ivonescimab."
+          },
+          {
+            "title": "Big picture",
+            "content": "If ivonescimab proves superior to Keytruda, a current standard, it could disrupt the PD-1 inhibitor market. But lingering concerns about survival benefit and side effects mean the drug's long-term impact remains uncertain."
+          },
+          {
+            "title": "What's next",
+            "content": "Investors are currently divided on the path forward. While some analysts remain bullish on Summit others are skeptical of survival gains. Summit's shares dropped 5% post-release and the company may need new funding to continue development. All eyes now turn to the pivotal global HARMONi-3 trial as a potential game-changer in lung cancer care."
+          }
+        ]
+      }
+    ],
+    "snippets": [
+      {
+        "title": "🧪 Chemo challenger",
+        "content": "Daiichi Sankyo and Merck & Co. announced <a href=\"https://www.fiercebiotech.com/biotech/esmo-daiichi-merck-power-ovarian-cancer-adc-toward-pivotal-trial-after-passing-phase-2-test\" style=\"color: #007bff; text-decoration: underline;\">promising phase 2 results for their CDH6-directed antibody-drug conjugate raludotatug deruxtecan</a> (R-DXd) in platinum-resistant ovarian, primary peritoneal, and fallopian tube cancers, reporting a 50.5% overall response rate (ORR) across 107 patients. The partners chose the 5.6 mg/kg middle dose, showing a 50% ORR with two complete responses, for the phase 3 portion, prioritizing safety after ILD-related concerns at higher doses.",
+        "border_color": "green"
+      },
+      {
+        "title": "🌪️ Side effect storm",
+        "content": "Exelixis shares <a href=\"https://www.biopharmadive.com/news/exelixis-esmo-data-colorectal-cancer-zanzalintinib-stellar/803197/\" style=\"color: #007bff; text-decoration: underline;\">fell over 10% following the release of phase 3 trial data for its experimental drug zanzalintinib combined with Tecentriq in metastatic colorectal cancer</a>. The STELLAR-303 trial showed modest results with safety concerns emerging: 59% experienced severe adverse events and six treatment-related deaths were reported. Exelixis still plans to seek FDA approval by year-end.",
+        "border_color": "red"
+      },
+      {
+        "title": "🥊 Steroid slugging",
+        "content": "Roche is <a href=\"https://www.fiercebiotech.com/biotech/roche-claws-its-way-toward-fda-phase-3-eye-disease-trials-yield-mixed-results\" style=\"color: #007bff; text-decoration: underline;\">pursuing FDA approval for its IL-6 inhibitor vamikibart in uveitic macular edema despite mixed phase 3 trial results</a>. While MEERKAT met its primary endpoint, SANDCAT did not, largely due to poor performance of the high dose group. Roche argues the totality of the data supports approval in a steroid-dominated market.",
+        "border_color": "blue"
+      },
+      {
+        "title": "🦛 Hippo hit",
+        "content": "Vivace Therapeutics is <a href=\"https://www.fiercebiotech.com/biotech/esmo-vivace-tunes-ph-3-after-midstage-mesothelioma-trial-hits-high-note\" style=\"color: #007bff; text-decoration: underline;\">preparing to launch a phase 3 trial for its experimental mesothelioma drug VT3989</a> after the TEAD inhibitor targeting the Hippo pathway achieved a 32% objective response rate with median progression-free survival reaching 40 weeks, more than double the standard 15 weeks with chemotherapy.",
+        "border_color": "green"
+      },
+      {
+        "title": "👑 More ADC wins",
+        "content": "AstraZeneca and Daiichi Sankyo's antibody-drug conjugate <a href=\"https://www.biopharmadive.com/news/astrazeneca-daiichis-datroway-excels-in-hard-to-treat-breast-cancer/803225/\" style=\"color: #007bff; text-decoration: underline;\">Datroway showed strong results in a phase 3 trial for triple-negative, metastatic breast cancer patients ineligible for immunotherapy</a>. Datroway extended median overall survival to 23.7 months versus 18.7 months with chemotherapy and nearly doubled progression-free survival (10.8 vs. 5.6 months).",
+        "border_color": "blue"
+      }
+    ],
+    "speed_read": [
+      {
+        "company_name": "Lundbeck and Contera Pharma",
+        "content": "<a href=\"https://european-biotechnology.com/latest-news/lundbeck-inks-licence-option-deal-with-contera-pharma/\" style=\"color: #007bff; text-decoration: underline;\">partnered to develop RNA-based neurological drugs</a>, granting Lundbeck a licence option and Contera potential milestone payments and royalties."
+      },
+      {
+        "company_name": "Amivantamab",
+        "content": "monotherapy <a href=\"https://pharmatimes.com/news/amivantamab-shows-promise-in-head-and-neck-cancer/\" style=\"color: #007bff; text-decoration: underline;\">achieved a 45% response rate in heavily pretreated head and neck cancer patients</a>, showing rapid, durable efficacy and prompting further phase 3 investigation."
+      },
+      {
+        "company_name": "New Limit",
+        "content": "<a href=\"https://blog.newlimit.com/p/newlimit-has-raised-an-additional\" style=\"color: #007bff; text-decoration: underline;\">raised $45M from major investors including Eli Lilly and Duke to advance epigenetic reprogramming therapies</a>, following breakthroughs that accelerate clinical trial planning."
+      }
+    ],
+    "tour_operator": [
+      {
+        "location": "Vienna",
+        "date": "3-5 November 2025",
+        "event_name": "BIO-Europe 2025",
+        "event_url": "https://informaconnect.com/bioeurope/?utm_source=biotechsnap.com&utm_medium=email&utm_campaign=EBEU2025BSEB&utm_term=email&utm_content=EBEU2025BSEB&tracker_id=EBEU2025BSEB"
+      },
+      {
+        "location": "Boston",
+        "date": "13-14 November 2025",
+        "event_name": "Pharma Partnering Summit",
+        "event_url": "https://pharma-partnering-summit.com/pps-ec.html"
+      },
+      {
+        "location": "Dubai",
+        "date": "17-18 November 2025",
+        "event_name": "World Biotechnology and Bioengineering Congress",
+        "event_url": "https://scholarsconferences.com/biotechnology/"
+      },
+      {
+        "location": "Paris",
+        "date": "24-25 November 2025",
+        "event_name": "2nd International Congress on Virology, Emerging Diseases and Vaccines",
+        "event_url": "https://www.longdom.com/vaccine"
+      },
+      {
+        "location": "Brussels",
+        "date": "4-5 December 2025",
+        "event_name": "BIOVERSE Europe 2025",
+        "event_url": "https://global-engage.com/product/bioverse-europe-2025/#venue-image-slider-event"
+      },
+      {
+        "location": "London",
+        "date": "9-10 December 2025",
+        "event_name": "SynbiTECH",
+        "event_url": "https://www.synbitech.com"
+      },
+      {
+        "location": "San Diego",
+        "date": "14-17 December 2025",
+        "event_name": "Antibody Engineering & Therapeutics",
+        "event_url": "https://informaconnect.com/antibody-engineering-therapeutics/"
+      },
+      {
+        "location": "San Francisco",
+        "date": "10 January 2026",
+        "event_name": "Sachs Annual Oncology Innovation Forum",
+        "event_url": "https://www.sachsforum.com/11oif-about.html"
+      },
+      {
+        "location": "London",
+        "date": "19 January 2026",
+        "event_name": "Bioseed",
+        "event_url": "https://obn.glueup.com/event/bioseed-2026-150186/"
+      },
+      {
+        "location": "Göttingen",
+        "date": "19 February 2026",
+        "event_name": "Life Science Start-up Day",
+        "event_url": "https://www.lifescience-startupday.com"
+      }
+    ]
+  }
+}

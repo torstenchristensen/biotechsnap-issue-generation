@@ -1,0 +1,125 @@
+{
+  "newsletter": {
+    "metadata": {
+      "subject_line": "[Enter email subject line]",
+      "preview_text": "[Enter preview text that appears in email client]"
+    },
+    "sponsor": {
+      "enabled": false,
+      "banner": {
+        "image_url": "https://example.com/sponsor-banner.png",
+        "image_alt": "Sponsor Banner Alt Text",
+        "sponsor_url": "https://example.com/sponsor"
+      },
+      "banner_text": "Optional text below banner image",
+      "section": {
+        "sponsor_name": "Sponsor Company Name",
+        "headline": "Sponsored Section Headline",
+        "image_url": "https://example.com/sponsor-content-image.png",
+        "message": "Sponsor message content with <strong>HTML formatting</strong> supported.<br><br>Multiple paragraphs allowed.",
+        "button_text": "Call to Action",
+        "sponsor_url": "https://example.com/sponsor-link"
+      }
+    },
+    "intro": {
+      "message": "Your intro message here. Can include <a href=\"https://example.com\" style=\"color: #007bff; text-decoration: underline;\">links with styling</a>."
+    },
+    "stories": [
+      {
+        "section_header": "SNAPSHOT",
+        "large_headline": true,
+        "headline": "Main story headline goes here",
+        "image_url": "https://example.com/story-image.png",
+        "image_alt": "Image description for accessibility",
+        "lead_paragraph": "Opening paragraph with <strong>bold text</strong> and <a href=\"https://example.com\" style=\"color: #007bff; text-decoration: underline;\">styled links</a>.",
+        "subsections": [
+          {
+            "title": "Why it matters",
+            "content": "Explanation of significance and impact.",
+            "highlight": true
+          },
+          {
+            "title": "Backstory",
+            "content": "Context and background information."
+          },
+          {
+            "title": "Big picture",
+            "content": "Broader implications and future outlook."
+          },
+          {
+            "title": "Custom Section Title",
+            "content": "Additional details or analysis."
+          }
+        ]
+      },
+      {
+        "section_header": "SNAP AGAIN",
+        "large_headline": false,
+        "headline": "Secondary story headline",
+        "image_url": "https://example.com/snap-again-image.png",
+        "image_alt": "Secondary story image description",
+        "lead_paragraph": "Opening paragraph for the second story.",
+        "subsections": [
+          {
+            "title": "Why it matters",
+            "content": "Key takeaway for this story.",
+            "highlight": true
+          },
+          {
+            "title": "The details",
+            "content": "Supporting information and facts."
+          },
+          {
+            "title": "What's next",
+            "content": "Future developments or implications."
+          }
+        ]
+      }
+    ],
+    "snippets": [
+      {
+        "title": "Snippet Title 1",
+        "content": "Brief news item with <a href=\"https://example.com\" style=\"color: #007bff; text-decoration: underline;\">link</a>.",
+        "border_color": "green"
+      },
+      {
+        "title": "Snippet Title 2",
+        "content": "Another brief news item.",
+        "border_color": "blue"
+      },
+      {
+        "title": "Snippet Title 3",
+        "content": "Third news snippet.",
+        "border_color": "red"
+      }
+    ],
+    "speed_read": [
+      {
+        "company_name": "Company Name 1",
+        "content": "brief description of news with <a href=\"https://example.com\" style=\"color: #007bff; text-decoration: underline;\">link</a>."
+      },
+      {
+        "company_name": "Company Name 2",
+        "content": "another brief news item."
+      },
+      {
+        "company_name": "Company Name 3",
+        "content": "third speed read item."
+      }
+    ],
+    "tour_operator": [
+      {
+        "location": "City Name",
+        "date": "DD-DD Month YYYY",
+        "event_name": "Event Name",
+        "event_url": "https://example.com/event"
+      },
+      {
+        "location": "Another City",
+        "date": "DD Month YYYY",
+        "event_name": "Another Event",
+        "event_url": "https://example.com/event2"
+      }
+    ]
+  }
+}

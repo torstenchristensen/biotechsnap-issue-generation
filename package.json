@@ -1,0 +1,21 @@
+{
+  "name": "biotech-snap-newsletter-generator",
+  "version": "1.0.0",
+  "description": "Generate Biotech Snap newsletters from JSON data",
+  "main": "generate-newsletter.js",
+  "scripts": {
+    "generate": "node generate-newsletter.js",
+    "example": "node generate-newsletter.js newsletter-data.json newsletter-template.html output.html"
+  },
+  "keywords": [
+    "newsletter",
+    "biotech",
+    "handlebars",
+    "email"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "handlebars": "^4.7.8"
+  }
+}
